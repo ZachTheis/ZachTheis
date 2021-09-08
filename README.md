@@ -32,6 +32,7 @@ Further developing my Java and Python skills
 
 ### Hobbies
 I've recently started creating props and armor out of EVA foam. I'm still a relative novice at it, but getting better every day! A few works in progress:
+![bracer 1](https://user-images.githubusercontent.com/70988581/132432119-6d2974db-a012-4e57-b487-cd4cf1bc439a.jpg) ![bracer 2](https://user-images.githubusercontent.com/70988581/132432216-2aae163d-b8d7-4b9b-aa56-a326ee0a011d.png)
 
 
 **ZachTheis/ZachTheis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
