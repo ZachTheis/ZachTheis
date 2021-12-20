@@ -10,7 +10,7 @@ I came to programming later in life than I would have liked; believe it or not, 
   
 ## Skills 🛠 
 ### Programming Languages
-Java:       Moderate to high proficiency, 1-2 years academic experience  
+Java: &emsp; Moderate to high proficiency, 1-2 years academic experience  
 Python:     Moderate proficiency, 1 year academic experience 
 
 ### Soft Skills
