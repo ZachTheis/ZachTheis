@@ -11,11 +11,11 @@ I came to programming later in life than I would have liked; believe it or not, 
 ## Skills 🛠 
 ### Programming Languages
 Java: &emsp; Moderate to high proficiency, 1-2 years academic experience  
-Python:     Moderate proficiency, 1 year academic experience 
+Python: &emsp;Moderate proficiency, 1 year academic experience 
 
 ### Soft Skills
-Team Management: Moderate to high proficiency, 3 years professional experience  
-Interpersonal Communication: High proficiency, 10+ years of personal/professional experience
+Team Management: &emsp; Moderate to high proficiency, 3 years professional experience  
+Interpersonal Communication: &emsp; High proficiency, 10+ years of personal/professional experience
 
 
 ## Hobbies 🎮
