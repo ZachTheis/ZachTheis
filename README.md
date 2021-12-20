@@ -14,7 +14,7 @@ Java: &emsp;&emsp; Moderate to high proficiency, 1-2 years academic experience
 Python: &emsp;Moderate proficiency, 1 year academic experience 
 
 ### Soft Skills
-Team Management: &emsp; Moderate to high proficiency, 3 years professional experience  
+Team Management: &emsp;&emsp;&emsp; Moderate to high proficiency, 3 years professional experience  
 Interpersonal Communication: &emsp; High proficiency, 10+ years of personal/professional experience
 
 
