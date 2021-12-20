@@ -15,7 +15,7 @@ Python: &emsp;Moderate proficiency, 1 year academic experience
 
 ### Soft Skills
 Team Management: &ensp;&emsp;&emsp;&emsp;&emsp;&emsp; Moderate to high proficiency, 3 years professional experience  
-Interpersonal Communication: &emsp; High proficiency, 10+ years of personal/professional experience
+Interpersonal Communication:&emsp; High proficiency, 10+ years of personal/professional experience
 
 
 ## Hobbies 🎮
