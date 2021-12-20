@@ -14,7 +14,7 @@ Java:       Moderate to high proficiency, 1-2 years academic experience
 Python:     Moderate proficiency, 1 year academic experience 
 
 ### Soft Skills
-Team Management: Moderate to high proficiency, 3 years professional experience 
+Team Management: Moderate to high proficiency, 3 years professional experience  
 Interpersonal Communication: High proficiency, 10+ years of personal/professional experience
 
 
@@ -26,13 +26,13 @@ Unsurprisingly, I also love D&D, when my gaming group can find time for it.
 
 ## I’m currently learning 🎓
 ### Coding Languages
-Javascript
-HTML/CSS
+Javascript  
+HTML/CSS  
 Further developing my Java and Python skills
 
 ### Hobbies
 I've recently started creating props and armor out of EVA foam. I'm still a relative novice at it, but getting better every day! A few works in progress:
 
-![bracer 1](https://user-images.githubusercontent.com/70988581/132433506-b80790b1-ef4e-471d-8149-fea289513826.jpg)
-![bracer 2](https://user-images.githubusercontent.com/70988581/132433511-f60a4360-b948-4678-9cf7-2f744fdc312f.png)
+![bracer 1](https://user-images.githubusercontent.com/70988581/132433506-b80790b1-ef4e-471d-8149-fea289513826.jpg)  
+![bracer 2](https://user-images.githubusercontent.com/70988581/132433511-f60a4360-b948-4678-9cf7-2f744fdc312f.png)  
 ![ram skull](https://user-images.githubusercontent.com/70988581/132433645-c2a7cafd-40df-4fc6-a995-e0a86647d9ca.png)
