@@ -3,7 +3,7 @@
 
   
 ## About Me :mega:
-I'm a student at Raritan Valley Community College in my last semester of my AAS in Computer Programming.
+I'm a recent graduate at Raritan Valley Community College in my last semester of my AAS in Computer Programming.
 
 I came to programming later in life than I would have liked; believe it or not, my first career choice was in theatre. However with the limited job market in the arts, I decided to break into the industry and discovered that, while I'm only OK at dealing with computer hardware, I have a real knack for coding!
 
