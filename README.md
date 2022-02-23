@@ -11,7 +11,7 @@ I came to programming later in life than I would have liked; believe it or not, 
 ## Skills 🛠 
 ### Programming Languages
 Java: &emsp;&emsp; Moderate to high proficiency, 1-2 years academic experience  
-Python: &emsp;Moderate proficiency, 1 year academic experience 
+Python: &emsp;Moderate proficiency, 1 year academic experience  
 HTML5/CSS: &emsp;Basic to moderate proficiency, 1 year academic experience
 
 ### Soft Skills
@@ -29,7 +29,7 @@ Unsurprisingly, I also love D&D, when my gaming group can find time for it.
 ### Coding Languages
 Javascript  
 HTML/CSS  
-C#
+C#  
 Further developing my Java and Python skills
 
 ### Hobbies
